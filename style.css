@@ -5,7 +5,13 @@ body{
     font-family: san-serif;
 
 }
- 
+
+img 
+{
+    max-width: 100%;
+    height: auto;
+}
+
 footer{
     position: fixed;
     bottom: 0;
